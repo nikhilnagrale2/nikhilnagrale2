@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilnagrale2&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilnagrale2" /> </p>
 
-- 🌱 I’m currently learning **Dynamic Programming, FST, Segment Trees, Flows**
+- 🌱 I’m currently learning **Dynamic Programming, FFT, Segment Trees, Flows**
 
 - 💬 Ask me about **Competitive Programming**
 
