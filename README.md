@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilnagrale2&show_icons=true&theme=tokyonight&locale=en" alt="nikhilnagrale2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnagrale2&theme=dark" alt="nikhilnagrale2" /></p>
+![](https://activity-graph.herokuapp.com/graph?username=nikhilnagrale2&theme=dracula)
