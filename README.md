@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnagrale2&theme=dark" alt="nikhilnagrale2" /></p>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nikhilnagrale2&theme=dracula)
